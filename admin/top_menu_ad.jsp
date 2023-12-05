@@ -17,7 +17,9 @@
 
     <div class="container">
            <a class="navbar-brand" href="../index.jsp" style="color: white; ">메뉴바 : 홈페이지</a>
-            <a class="navbar-brand" href="../index.jsp" style="color: white; ">회원 보기/추가/수정/삭제</a>
+           <a style="color:white;" class="navbar-brand" href="../member/member_view.jsp?edit=m_view">회원보기</a>
+            <a style="color:white;" class="navbar-brand" href="../member/member_view.jsp?edit=m_update">회원수정</a>
+            <a style="color:white;" class="navbar-brand" href="../member/member_view.jsp?edit=m_delete">회원삭제</a>
             <a class="navbar-brand" href="index_ad.jsp" style="color: white; ">상품 보기</a>
             <a class="navbar-brand" href="product_add.jsp" style="color: white; ">등록</a>
             <a class="navbar-brand" href="product_edit.jsp?edit=update" style="color: white; ">수정</a>

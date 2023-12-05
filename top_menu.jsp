@@ -17,9 +17,9 @@
 
     <div class="container">
 	    <a class="navbar-brand" href="index.jsp" style="color: white; ">상품목록(기본 홈)</a>
-        <a class="navbar-brand" href="./index.jsp" style="color: white; ">로그인</a>
-        <a class="navbar-brand" href="./index.jsp" style="color: white; ">회원가입</a>
-        <a class="navbar-brand" href="./index.jsp" style="color: white;">고객센터</a>
+        <a class="navbar-brand" href="../login/login_user.jsp" style="color: white; ">로그인</a>
+        <a class="navbar-brand" href="../member/member_join.jsp" style="color: white; ">회원가입</a>
+            <a class="navbar-brand" href="/BoardListAction.do?pageNum=1">게시판(고객센터)</a>
         <a class="navbar-brand" href="admin/index_ad.jsp" style="color: white; ">관리자모드</a>
 
     </div>
