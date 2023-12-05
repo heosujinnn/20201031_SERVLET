@@ -17,12 +17,20 @@
 
 
 ### ✈️ [주문처리 페이지 추가 - 배송날짜(당일+1),국가명,우편번호,주소 카카오API](https://github.com/heosujinnn/20201031_SERVLET/commit/b0697f70fb9824c6e887d021dc3d405a526c3900) 연동완료
-### ✈️ 여기어때 상품 관리 페이지 추가 및 DB password 수정 작업
+### ✈️ 여기어때 상품 관리 페이지 추가 및 DB password 수정 작업완료
 
 ### ✈️ 여기어때 상품관리 페이지 추가 [쇼핑몰 수정 삭제 기능](https://github.com/heosujinnn/20201031_SERVLET/commit/69dd866e94f717163483edd284c6e652172c22c1) 추가
 
 ### ✈️ [일반회원가입 후 로그인->게시판 글쓰기(수정,삭제)](https://github.com/heosujinnn/20201031_SERVLET/commit/cf9c5430f788d8ffd51b321bc9f3b780533c1f2c) 작업
+
 ### ✈️ [회원보기, 회원수정, 회원삭제](https://github.com/heosujinnn/20201031_SERVLET/commit/e1663be2a02ff6d089bc0a511c590875b2af5a31) 구현완료
+
+
+## ⭐ 추가기능까지 모두 구현하였습니다.
+
+잘 안보이는 사진은 사진을 클릭하거나,
+[이슈탭](https://github.com/heosujinnn/20201031_SERVLET/issues/1)에 다 담겨있습니다!
+
 
 <table>
   <tr>
