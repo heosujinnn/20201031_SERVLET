@@ -25,60 +25,43 @@
 
 <table>
   <tr>
-    <td align="center">
-      <img src="https://github.com/heosujinnn/20201031_SERVLET/assets/104800090/28ce7bb7-d625-4d44-9d00-a630358b7da3" alt="메인홈페이지" width="400px" height="300px" />
-      <br />메인홈페이지
-    </td>
-    <td align="center">
-      <img src="https://github.com/heosujinnn/20201031_SERVLET/assets/104800090/ca9e7540-9830-449f-9cf9-7a9101b4589c" alt="이미지2 대체 텍스트" width="400px" height="300px" />
-      <br />상품상세정보
-    </td>
-    <td align="center">
-      <img src="https://github.com/heosujinnn/20201031_SERVLET/assets/104800090/f13f23eb-f80a-4f46-88e8-176ee3193fb7" alt="이미지3 대체 텍스트" width="400px" height="300px" />
-      <br />장바구니
-    </td>
+    <td><img src="https://github.com/heosujinnn/20201031_SERVLET/assets/104800090/28ce7bb7-d625-4d44-9d00-a630358b7da3" alt="jsp1" width="600"></td>
+    <td><img src="https://github.com/heosujinnn/20201031_SERVLET/assets/104800090/ca9e7540-9830-449f-9cf9-7a9101b4589c" alt="관리자모드-상세정보" width="600"></td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://github.com/heosujinnn/20201031_SERVLET/assets/104800090/b06a13e0-3df9-42c2-b6df-39f73f3ca8b8" alt="이미지4 대체 텍스트" width="400px" height="300px" />
-      <br />주문처리 페이지 - 배송날짜(당일+1),국가명,우편번호,주소 카카오API
-    </td>
-    <td align="center">
-      <img src="https://github.com/heosujinnn/20201031_SERVLET/assets/104800090/4c80f187-53e7-4f08-aa01-26aacd87e039" alt="이미지5 대체 텍스트" width="400px" height="300px" />
-      <br />상품 등록
-    </td>
-    <td align="center">
-      <img src="https://github.com/heosujinnn/20201031_SERVLET/assets/104800090/8bb06cc5-fd5d-4a23-b360-ac85136c9e48" alt="이미지6 대체 텍스트" width="400px" height="300px" />
-      <br />상품 수정기능
-    </td>
+    <td><img src="https://github.com/heosujinnn/20201031_SERVLET/assets/104800090/f13f23eb-f80a-4f46-88e8-176ee3193fb7" alt="장바구니" width="600"></td>
+    <td><img src="https://github.com/heosujinnn/20201031_SERVLET/assets/104800090/b06a13e0-3df9-42c2-b6df-39f73f3ca8b8" alt="배송 주문" width="600"></td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://github.com/heosujinnn/20201031_SERVLET/assets/104800090/ed04b5cc-13cb-4860-aa80-f0f76bc80862" alt="이미지7 대체 텍스트" width="400px" height="300px" />
-      <br />상품 삭제기능
-    </td>
-    <td align="center">
-      <img src="https://github.com/heosujinnn/20201031_SERVLET/assets/104800090/1c2ad324-f67f-4e65-9dd9-7deae0f3535f" alt="이미지8 대체 텍스트" width="400px" height="300px" />
-      <br />회원가입 기능
-    </td>
-    <td align="center">
-      <img src="https://github.com/heosujinnn/20201031_SERVLET/assets/104800090/071811d0-2b10-4b6c-aef5-bcaaf8a64e25" alt="이미지9 대체 텍스트" width="400px" height="300px" />
-      <br />로그인 했을 때 게시판으로 넘어가기(Session Attributes)
-    </td>
+    <td><img src="https://github.com/heosujinnn/20201031_SERVLET/assets/104800090/4c80f187-53e7-4f08-aa01-26aacd87e039" alt="상품 등록" width="600"></td>
+    <td><img src="https://github.com/heosujinnn/20201031_SERVLET/assets/104800090/25a01804-9eaa-493f-910d-a6f65065c20a" alt="영종" width="600"></td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://github.com/heosujinnn/20201031_SERVLET/assets/104800090/1919f56d-c513-4b68-9827-9dd01a2960b5" alt="이미지10 대체 텍스트" width="400px" height="300px" />
-      <br />게시물 쓰면 나의 현재 아이디는 바로 나옴!
-    </td>
-    <td align="center">
-      <img src="https://github.com/heosujinnn/20201031_SERVLET/assets/104800090/49d89fe6-7609-4e40-9dd3-afcbedf465ac" alt="이미지11 대체 텍스트" width="400px" height="100px" />
-      <br />회원 정보 테이블
-    </td>
-    <td align="center">
-      <img src="https://github.com/heosujinnn/20201031_SERVLET/assets/104800090/ebb677c7-d56d-4906-b35f-eb91af46eeed" alt="이미지12 대체 텍스트" width="400px" height="100px" />
-      <br />상품 정보 테이블
-    </td>
+    <td><img src="https://github.com/heosujinnn/20201031_SERVLET/assets/104800090/8bb06cc5-fd5d-4a23-b360-ac85136c9e48" alt="상품 수정" width="600"></td>
+    <td><img src="https://github.com/heosujinnn/20201031_SERVLET/assets/104800090/ed04b5cc-13cb-4860-aa80-f0f76bc80862" alt="상품 삭제" width="600"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/heosujinnn/20201031_SERVLET/assets/104800090/1c2ad324-f67f-4e65-9dd9-7deae0f3535f" alt="son회원가입" width="600"></td>
+    <td><img src="https://github.com/heosujinnn/20201031_SERVLET/assets/104800090/071811d0-2b10-4b6c-aef5-bcaaf8a64e25" alt="게시판(고객센터)" width="600"></td>
+  </tr>
+    <tr>
+    <td><img src="https://github.com/heosujinnn/20201031_SERVLET/assets/104800090/1919f56d-c513-4b68-9827-9dd01a2960b5" alt="글쓰기(son)" width="600"></td>
+    <td><img src="https://github.com/heosujinnn/20201031_SERVLET/assets/104800090/7d5f437e-a49f-4d56-8098-4c5647c5073b" alt="글test작성" width="600"></td>
+  </tr>
+    <tr>
+    <td><img src="https://github.com/heosujinnn/20201031_SERVLET/assets/104800090/a5cb85ff-7c5f-4186-a115-b29561240756" alt="list(son이입력)" width="600"></td>
+    <td><img src="https://github.com/heosujinnn/20201031_SERVLET/assets/104800090/76076d4e-1230-4859-9cfd-7b09fbf99749" alt="세부 글내용" width="600"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/heosujinnn/20201031_SERVLET/assets/104800090/f234c18d-f9a5-4cb0-8bb9-3d73ed1c2911" alt="son세션에서 본 다른 게시물" width="600"></td>
+    <td><img src="https://github.com/heosujinnn/20201031_SERVLET/assets/104800090/0382fe42-9c70-49ec-9a39-60c6dabe6c41" alt="회원정보 뷰" width="600"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/heosujinnn/20201031_SERVLET/assets/104800090/e286464d-b96d-4848-88d4-47dba669f240" alt="회원정보 수정" width="600"></td>
+    <td><img src="https://github.com/heosujinnn/20201031_SERVLET/assets/104800090/d0c5767b-6b52-43a5-b217-bdb8365393e4" alt="회원정보 수정 된거" width="600"></td>
+  </tr>
+   <tr>
+    <td><img src="https://github.com/heosujinnn/20201031_SERVLET/assets/104800090/294e1843-5a1a-401e-af63-26e00b203efa" alt="회원정보 삭제" width="600"></td>
+    <td><img src="https://github.com/heosujinnn/20201031_SERVLET/assets/104800090/1d9a0faa-c5a5-48f4-9633-1ce80be14ba6" alt="password변경" width="600"></td>
   </tr>
 </table>
-
